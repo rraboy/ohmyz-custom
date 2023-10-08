@@ -1,2 +1,2 @@
 # ohmyz-custom
-Custom ohmyz
+Custom ohmyz themes
